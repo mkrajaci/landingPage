@@ -1,0 +1,22 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkrajaci/landingPage.git"
+  },
+  "author": "Mario Krajacic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkrajaci/landingPage/issues"
+  },
+  "homepage": "https://github.com/mkrajaci/landingPage#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

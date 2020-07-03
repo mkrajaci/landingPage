@@ -1,5 +1,5 @@
 # landingPage
-Older wersion of my landing page.
+Preparing templates for older version of my landing page.
 
 Using HTML, CSS, Node Sass etc.
 

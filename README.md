@@ -1,5 +1,5 @@
 # landingPage
-Landing page for MarioKrajacic.com
+Older wersion of my landing page.
 
 Using HTML, CSS, Node Sass etc.
 
